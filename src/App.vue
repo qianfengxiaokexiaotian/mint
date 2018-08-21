@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <Top/>
-    <!-- <HelloWorld/> -->
     <router-view class="content"/>
       <div class="nav">
         <router-link to="./">主页</router-link>
